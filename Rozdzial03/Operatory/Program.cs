@@ -19,9 +19,45 @@
 // int maksDlugosc = nazwiskoAutora?.Length ?? 30;
 // nazwiskoAutora ??= "nieznany";
 
-bool a = true;
-bool b = false;
+// bool a = true;
+// bool b = false;
 
-WriteLine($"a | {a ^ b, 50}");
+// // WriteLine($"a | {a ^ b, 50}");
+// WriteLine();
+
+// // Pamiętaj, że funkcja ZrobCos zwraca wartość true
+
+// WriteLine($"a & ZrobCos() = {a & ZrobCos()}");
+
+// WriteLine($"b & ZrobCos() = {b & ZrobCos()}");
+int x = 10;
+
+int y = 6;
+
+WriteLine($"Wyrażenie | Dziesiętnie | Binarnie");
+
+WriteLine($"----------------------------------");
+
+WriteLine($"x         |  {x,10} | {x:B8}");
+
+WriteLine($"y         |  {y,10} | {y:B8}");
+
+WriteLine($"x & y     |  {x & y,10} | {x & y:B8}");
+WriteLine($"x | y     |  {x | y,10} | {x | y:B8}");
+
+WriteLine($"x ^ y     |  {x ^ y,10} | {x ^ y:B8}");
+
+
+
 
 #endregion
+
+static bool ZrobCos()
+
+{
+
+    WriteLine("Wykonuję ciężką pracę.");
+
+    return true;
+
+}
