@@ -1,0 +1,15 @@
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/bin/Debug/net8.0/Operatory
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/bin/Debug/net8.0/Operatory.deps.json
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/bin/Debug/net8.0/Operatory.runtimeconfig.json
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/bin/Debug/net8.0/Operatory.dll
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/bin/Debug/net8.0/Operatory.pdb
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/Operatory.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/Operatory.AssemblyInfoInputs.cache
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/Operatory.AssemblyInfo.cs
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/Operatory.csproj.CoreCompileInputs.cache
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/Operatory.sourcelink.json
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/Operatory.dll
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/refint/Operatory.dll
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/Operatory.pdb
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/Operatory.genruntimeconfig.cache
+/workspaces/rozdzial03_vscode/Rozdzial03/Operatory/obj/Debug/net8.0/ref/Operatory.dll
